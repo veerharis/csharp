@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\cLASS\bin\Debug\net7.0\cLASS.exe
+C:\Users\asp\Desktop\cLASS\bin\Debug\net7.0\cLASS.deps.json
+C:\Users\asp\Desktop\cLASS\bin\Debug\net7.0\cLASS.runtimeconfig.json
+C:\Users\asp\Desktop\cLASS\bin\Debug\net7.0\cLASS.dll
+C:\Users\asp\Desktop\cLASS\bin\Debug\net7.0\cLASS.pdb
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.AssemblyInfo.cs
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.dll
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\refint\cLASS.dll
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.pdb
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\cLASS.genruntimeconfig.cache
+C:\Users\asp\Desktop\cLASS\obj\Debug\net7.0\ref\cLASS.dll
